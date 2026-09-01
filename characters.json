@@ -1,0 +1,336 @@
+{
+  "characters": [
+    {
+      "nombre": "Naruto Uzumaki",
+      "villa": "Konoha",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Rasengan",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Rasenshuriken",
+          "elemento": "viento"
+        },
+        {
+          "nombre": "Kage Bunshin no Jutsu",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png/revision/latest?cb=20251228135525"
+    },
+    {
+      "nombre": "Sasuke Uchiha",
+      "villa": "Konoha",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Chidori",
+          "elemento": "rayo"
+        },
+        {
+          "nombre": "Katon: Goukakyuu no Jutsu",
+          "elemento": "fuego"
+        },
+        {
+          "nombre": "Kirin",
+          "elemento": "rayo"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest?cb=20170716092103"
+    },
+    {
+      "nombre": "Sakura Haruno",
+      "villa": "Konoha",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Sakura no Ichigan",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Byakugou no In",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Katon: Phoenix Flower Jutsu",
+          "elemento": "fuego"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/6/64/Sakura_Part_1.png/revision/latest?cb=20170726101444"
+    },
+    {
+      "nombre": "Kakashi Hatake",
+      "villa": "Konoha",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Chidori",
+          "elemento": "rayo"
+        },
+        {
+          "nombre": "Katon: Goukakyuu no Jutsu",
+          "elemento": "fuego"
+        },
+        {
+          "nombre": "Suiton: Suiryuudan",
+          "elemento": "agua"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20251019002845"
+    },
+    {
+      "nombre": "Gaara",
+      "villa": "Suna",
+      "rango": "Kage",
+      "jutsus": [
+        {
+          "nombre": "Sabaku Kyuu",
+          "elemento": "tierra"
+        },
+        {
+          "nombre": "Sabaku Sousou",
+          "elemento": "tierra"
+        },
+        {
+          "nombre": "Katon: Ryuuka no Jutsu",
+          "elemento": "fuego"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/2/20/Gaara_in_Part_I.png/revision/latest?cb=20221010023824"
+    },
+    {
+      "nombre": "Temari",
+      "villa": "Suna",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Kazekiri no Mai",
+          "elemento": "viento"
+        },
+        {
+          "nombre": "Kamaitachi no Jutsu",
+          "elemento": "viento"
+        },
+        {
+          "nombre": "Tessen: Kusabigakuno Jutsu",
+          "elemento": "viento"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/b/bb/Temari_newshot.png/revision/latest?cb=20180131102406"
+    },
+    {
+      "nombre": "Kankuro",
+      "villa": "Suna",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Kugutsu no Jutsu",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Kuro Lucha: Chokuya no Jutsu",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/7/7d/Kankur%C5%8D1.png/revision/latest?cb=20150125171209"
+    },
+    {
+      "nombre": "Kisame Hoshigaki",
+      "villa": "Kiri",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Suiton: Daibakufu no Jutsu",
+          "elemento": "agua"
+        },
+        {
+          "nombre": "Suiton: Suiryuudan",
+          "elemento": "agua"
+        },
+        {
+          "nombre": "Suiton: Suijinheki",
+          "elemento": "agua"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/f/f7/Kisame_Hoshigaki_full.png/revision/latest?cb=20160304061903"
+    },
+    {
+      "nombre": "Zabuza Momochi",
+      "villa": "Kiri",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Suiton: Suiryuudan",
+          "elemento": "agua"
+        },
+        {
+          "nombre": "Suiton: Suijinheki",
+          "elemento": "agua"
+        },
+        {
+          "nombre": "Kirigakure no Jutsu",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/a/a6/Zabuza_OL.png/revision/latest?cb=20210426223426"
+    },
+    {
+      "nombre": "Orochimaru",
+      "villa": "Oto",
+      "rango": "Sannin",
+      "jutsus": [
+        {
+          "nombre": "Kusanagi no Tachi",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Suiton: Baku Suishouhou",
+          "elemento": "agua"
+        },
+        {
+          "nombre": "Dokuyaku Jutsu",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png/revision/latest?cb=20150925223113"
+    },
+    {
+      "nombre": "Jiraiya",
+      "villa": "Konoha",
+      "rango": "Sannin",
+      "jutsus": [
+        {
+          "nombre": "Rasengan",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Katon: Goen no Jutsu",
+          "elemento": "fuego"
+        },
+        {
+          "nombre": "Doton: Doryuheki",
+          "elemento": "tierra"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/1/1f/Jiraiya_Young.png/revision/latest?cb=20260220182003"
+    },
+    {
+      "nombre": "Tsunade",
+      "villa": "Konoha",
+      "rango": "Kage",
+      "jutsus": [
+        {
+          "nombre": "Byakugou no In",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Katsuyu: Kaijuu Bunshin",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/6/62/Kid_Tsunade.png/revision/latest?cb=20230407050656"
+    },
+    {
+      "nombre": "Itachi Uchiha",
+      "villa": "Akatsuki",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Amaterasu",
+          "elemento": "fuego"
+        },
+        {
+          "nombre": "Tsukuyomi",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Katon: Goukakyuu no Jutsu",
+          "elemento": "fuego"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/e/e9/Itachi_Child_OL.png/revision/latest?cb=20210415223303"
+    },
+    {
+      "nombre": "Deidara",
+      "villa": "Akatsuki",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Jinton: Kibaku Tachi",
+          "elemento": "rayo"
+        },
+        {
+          "nombre": "C4 Karura",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Gaiseishou",
+          "elemento": "tierra"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/f/f5/NUNSRDeidara.png/revision/latest?cb=20160623115341"
+    },
+    {
+      "nombre": "Pain (Nagato)",
+      "villa": "Akatsuki",
+      "rango": "Kage",
+      "jutsus": [
+        {
+          "nombre": "Shinra Tensei",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Chibaku Tensei",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Bansho Ten'in",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/0/06/Nagato_Early_Akatsuki.png/revision/latest?cb=20210226002003"
+    },
+    {
+      "nombre": "Hinata Hyuga",
+      "villa": "Konoha",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Jyuuken",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Byakugan",
+          "elemento": "ninguno"
+        },
+        {
+          "nombre": "Twin Lion Fists",
+          "elemento": "ninguno"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/9/97/Hinata.png/revision/latest?cb=20141010104729"
+    },
+    {
+      "nombre": "Darui",
+      "villa": "Kumogakure",
+      "rango": "Jonin",
+      "jutsus": [
+        {
+          "nombre": "Raiton: Kage Bunshin",
+          "elemento": "rayo"
+        },
+        {
+          "nombre": "Storm Release: Laser Circus",
+          "elemento": "rayo"
+        },
+        {
+          "nombre": "Black Lightning",
+          "elemento": "rayo"
+        }
+      ],
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/4/45/Darui.png/revision/latest?cb=20170913102716"
+    }
+  ]
+}
